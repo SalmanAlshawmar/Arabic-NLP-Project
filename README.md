@@ -118,11 +118,6 @@ arabic-nlp-project/
 - **Efficiency**: Traditional methods are fastest and most effective for this classification task
 - **Arabic Handling**: Proper preprocessing and TF-IDF feature extraction proved highly effective for Arabic morphology
 
-## Usage
+## Frontend Instructions
 
-Open `arabic_nlp_project.ipynb` in Jupyter Notebook or JupyterLab and run the cells sequentially. The notebook is organized into clear sections:
-
-1. Data Exploration and Preprocessing
-2. Traditional ML Approaches
-3. Deep Learning and Transformer Approaches
-4. Comparative Analysis
+For instructions on how to run or deploy the website frontend, see the [frontend repository README]([https://github.com/FRIEND_USERNAME/FRIEND_REPOSITORY#readme](https://github.com/Fkhrayef/nlp-project?tab=readme-ov-file)).
