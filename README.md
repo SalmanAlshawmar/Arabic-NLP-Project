@@ -120,4 +120,4 @@ arabic-nlp-project/
 
 ## Frontend Instructions
 
-For instructions on how to run or deploy the website frontend, see the [frontend repository README]([https://github.com/FRIEND_USERNAME/FRIEND_REPOSITORY#readme](https://github.com/Fkhrayef/nlp-project?tab=readme-ov-file)).
+For instructions on how to run or deploy the website frontend, see the [frontend repository README](https://github.com/Fkhrayef/nlp-project?tab=readme-ov-file).
